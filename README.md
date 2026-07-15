@@ -81,7 +81,7 @@ trading_bot/
 ## 1. Clone Repository
 
 ```bash
-git clone <your-public-github-repo-url>
+git clone https://github.com/P-SAI-LEKHYA/assignment_primetrade
 cd trading_bot
 ```
 
