@@ -330,4 +330,8 @@ pip install -r requirements.txt
 
 # 📜 License
 
+<<<<<<< HEAD
 This project is developed for educational and assessment purposes.
+=======
+This project is developed for educational and assessment purposes.
+>>>>>>> e4c88aa (updated files)
